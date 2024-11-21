@@ -1,0 +1,14 @@
+.gt {
+    line-height: 100px;
+    padding: 5px;
+    margin: 0px;
+    font-size: x-large;
+    font-variant: initial;
+    color: green;
+}
+body {
+    text-align: center;
+    font-size: medium;
+    font-variant:unset;
+
+}
